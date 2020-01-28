@@ -6,5 +6,5 @@ def my_find(collection)
   return collection[i] if
   yields(collection[i])
   i += 1 
-
+end
 end
